@@ -12,7 +12,7 @@ No guarantees, no warranty, and no liability if you get burned anyway.
 
 | Skill | What it does |
 | --- | --- |
-| [DANGER PROTOCOL](skills/danger-protocol/SKILL.md) | Read-only check of a GitHub repo before you install or run it: build scripts, what it does on your machine, what it sends out, hidden payloads. Ends with a verdict and what it could not prove. |
+| [DANGER PROTOCOL](skills/danger-protocol/) | Read-only check of a GitHub repo before you install or run it: build scripts, what it does on your machine, what it sends out, hidden payloads. Ends with a verdict and what it could not prove. Comes with a worked example. |
 
 ## How to use one
 
